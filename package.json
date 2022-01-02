@@ -1,0 +1,28 @@
+{
+  "name": "metaxa_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "metaxa": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makoteq/metax_cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makoteq/metax_cli/issues"
+  },
+  "homepage": "https://github.com/makoteq/metax_cli#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "inquirer": "^8.2.0",
+    "minimist": "^1.2.5"
+  }
+}
